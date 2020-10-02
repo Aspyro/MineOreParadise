@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: Modproject
+Implementation-Version: 1.0.1
+Specification-Vendor: Aspyro
+Specification-Title: mineoreparadise
+Implementation-Timestamp: 2020-10-02T20:54:07+0200
+Specification-Version: 1
+Implementation-Vendor: Aspyro
+
