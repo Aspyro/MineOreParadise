@@ -3,7 +3,7 @@
 - Change links to this repository.
 - Get a definitive name.
 ## Copper
-- Add textures for the Copper Ore item and block
+- ~~Add textures for the Copper Ore item and block~~
 - Add textures for the Impure Copper Ore item and block
 - Add textures for the Pure Copper Ore item and block
 - Add properties for the Copper Ore : mining level needed, time for mining, blast resistance, ...?
